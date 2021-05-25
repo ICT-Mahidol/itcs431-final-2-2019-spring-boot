@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>th.ac.mahidol.ict</groupId>
-    <artifactId>final2-2019</artifactId>
+    <artifactId>final2-2020</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>final2-2019</name>
-    <description>Spring Boot project for the final exam 2/2019</description>
+    <name>final2-2020</name>
+    <description>Spring Boot project for the final exam 2/2020</description>
 
     <properties>
         <java.version>1.8</java.version>
