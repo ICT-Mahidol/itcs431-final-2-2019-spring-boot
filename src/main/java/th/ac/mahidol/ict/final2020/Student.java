@@ -1,6 +1,4 @@
-package th.ac.mahidol.ict.final22019;
-
-import java.util.List;
+package th.ac.mahidol.ict.final2020;
 
 public class Student extends Person {
     int studentID;
